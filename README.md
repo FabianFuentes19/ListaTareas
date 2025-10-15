@@ -1,1 +1,2 @@
 # ListaTareas
+Este proyecto consiste en desarrollar una aplicación web sencilla de lista de tareas utilizando HTML, CSS y JavaScript. El objetivo es permitir al usuario agregar nuevas tareas, marcarlas como completadas al hacer clic sobre ellas y guardar automáticamente la información en el almacenamiento local del navegador para que se conserve al recargar la página. Además, se requiere aplicar estilos personalizados con CSS para mejorar la presentación visual.
